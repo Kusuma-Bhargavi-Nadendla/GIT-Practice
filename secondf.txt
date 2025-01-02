@@ -1,0 +1,3 @@
+Hello this is a second file
+Modification
+Diff check stage, commit
