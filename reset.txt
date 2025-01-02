@@ -1,3 +1,7 @@
 This is First line
 
 Modification from Feature1
+
+Modification from Fetautre 2
+
+Chnages merged
